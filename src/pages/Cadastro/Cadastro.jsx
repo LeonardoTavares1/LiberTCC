@@ -89,7 +89,7 @@ export function Cadastro(){
                         
 
                         <a href="/">
-                            <h3>Voltar para a página Home</h3>
+                            <h3>Voltar para a. página Home</h3>
                         </a>
 
                     </Cadastrar>
